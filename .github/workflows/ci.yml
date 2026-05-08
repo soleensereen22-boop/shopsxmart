@@ -18,4 +18,4 @@ jobs:
           test -f js/app.js
           test -f pages/register.html
           test -f pages/products.html
-          test -f pages/cart.html
+          test -f pages/cart.html             
