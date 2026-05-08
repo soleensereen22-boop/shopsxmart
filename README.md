@@ -101,3 +101,10 @@ A basic GitHub Actions workflow is included at `.github/workflows/ci.yml` to val
 
 
 .github/pull_request_template.md
+
+
+## إدارة المشروع (Project Management)
+
+تم إدارة هذا المشروع باستخدام Trello لمتابعة قصص المستخدم والمهام خلال السبرنت.
+
+🔗 **رابط لوحة Trello:** [اضغط هنا لمشاهدة لوحة المشروع](https://trello.com/invite/b/69f840e18065acefd906a367/ATTI83706573d90d99b99a8016067ab8ea26E309E463/projectsw3)
