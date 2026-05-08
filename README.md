@@ -18,7 +18,7 @@
 ## اختبارات Jest
 ```bash
 npm install
-npm test
+npm test ```
 
 
 ShopSmart - E-commerce Sprint Project
